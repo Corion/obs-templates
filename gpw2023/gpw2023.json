@@ -10,16 +10,12 @@
             "enabled": true,
             "flags": 0,
             "hotkeys": {
-                "libobs.hide_scene_item.<Speaker-Name>": [],
-                "libobs.hide_scene_item.<Talk-Title>": [],
                 "libobs.hide_scene_item.Background": [],
                 "libobs.hide_scene_item.German Perl/Raku Workshop 2022": [],
                 "libobs.hide_scene_item.Logo": [],
                 "libobs.hide_scene_item.Sponsor-Images": [],
                 "libobs.hide_scene_item.SponsorBG": [],
                 "libobs.hide_scene_item.SponsoredBy": [],
-                "libobs.show_scene_item.<Speaker-Name>": [],
-                "libobs.show_scene_item.<Talk-Title>": [],
                 "libobs.show_scene_item.Background": [],
                 "libobs.show_scene_item.German Perl/Raku Workshop 2022": [],
                 "libobs.show_scene_item.Logo": [],
@@ -90,8 +86,8 @@
                         "locked": false,
                         "name": "German Perl/Raku Workshop 2022",
                         "pos": {
-                            "x": 24.0,
-                            "y": 917.0
+                            "x": 324.0,
+                            "y": 915.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -120,7 +116,7 @@
                         "name": "SponsorBG",
                         "pos": {
                             "x": 0.0,
-                            "y": 552.0
+                            "y": 900.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -149,7 +145,7 @@
                         "name": "Sponsor-Images",
                         "pos": {
                             "x": 10.0,
-                            "y": 557.0
+                            "y": 905.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -177,8 +173,8 @@
                         "locked": false,
                         "name": "SponsoredBy",
                         "pos": {
-                            "x": 20.0,
-                            "y": 528.0
+                            "x": 28.0,
+                            "y": 852.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -214,64 +210,6 @@
                         "scale": {
                             "x": 1.7142857313156128,
                             "y": 1.7142857313156128
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 10,
-                        "locked": false,
-                        "name": "<Talk-Title>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 1030.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 8,
-                        "locked": false,
-                        "name": "<Speaker-Name>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 958.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.3241590261459351,
-                            "y": 1.325581431388855
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -529,8 +467,8 @@
                         "locked": false,
                         "name": "German Perl/Raku Workshop 2022",
                         "pos": {
-                            "x": 24.0,
-                            "y": 917.0
+                            "x": 324.0,
+                            "y": 915.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -559,7 +497,7 @@
                         "name": "SponsorBG",
                         "pos": {
                             "x": 0.0,
-                            "y": 552.0
+                            "y": 900.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -588,7 +526,7 @@
                         "name": "Sponsor-Images",
                         "pos": {
                             "x": 10.0,
-                            "y": 557.0
+                            "y": 905.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -616,8 +554,8 @@
                         "locked": false,
                         "name": "SponsoredBy",
                         "pos": {
-                            "x": 20.0,
-                            "y": 528.0
+                            "x": 28.0,
+                            "y": 852.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -653,64 +591,6 @@
                         "scale": {
                             "x": 1.7142857313156128,
                             "y": 1.7142857313156128
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 10,
-                        "locked": false,
-                        "name": "<Talk-Title>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 1030.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 8,
-                        "locked": false,
-                        "name": "<Speaker-Name>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 958.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.3241590261459351,
-                            "y": 1.325581431388855
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -913,8 +793,8 @@
                         "locked": false,
                         "name": "German Perl/Raku Workshop 2022",
                         "pos": {
-                            "x": 24.0,
-                            "y": 917.0
+                            "x": 324.0,
+                            "y": 915.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -943,7 +823,7 @@
                         "name": "SponsorBG",
                         "pos": {
                             "x": 0.0,
-                            "y": 552.0
+                            "y": 900.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -972,7 +852,7 @@
                         "name": "Sponsor-Images",
                         "pos": {
                             "x": 10.0,
-                            "y": 557.0
+                            "y": 905.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1000,8 +880,8 @@
                         "locked": false,
                         "name": "SponsoredBy",
                         "pos": {
-                            "x": 20.0,
-                            "y": 528.0
+                            "x": 28.0,
+                            "y": 852.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1037,64 +917,6 @@
                         "scale": {
                             "x": 1.7142857313156128,
                             "y": 1.7142857313156128
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 10,
-                        "locked": false,
-                        "name": "<Talk-Title>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 1030.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 8,
-                        "locked": false,
-                        "name": "<Speaker-Name>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 958.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.3241590261459351,
-                            "y": 1.325581431388855
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1266,8 +1088,8 @@
                         "locked": false,
                         "name": "German Perl/Raku Workshop 2022",
                         "pos": {
-                            "x": 24.0,
-                            "y": 917.0
+                            "x": 324.0,
+                            "y": 915.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1296,7 +1118,7 @@
                         "name": "SponsorBG",
                         "pos": {
                             "x": 0.0,
-                            "y": 552.0
+                            "y": 900.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1325,7 +1147,7 @@
                         "name": "Sponsor-Images",
                         "pos": {
                             "x": 10.0,
-                            "y": 557.0
+                            "y": 905.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1353,8 +1175,8 @@
                         "locked": false,
                         "name": "SponsoredBy",
                         "pos": {
-                            "x": 20.0,
-                            "y": 528.0
+                            "x": 28.0,
+                            "y": 852.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1390,64 +1212,6 @@
                         "scale": {
                             "x": 1.7142857313156128,
                             "y": 1.7142857313156128
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 10,
-                        "locked": false,
-                        "name": "<Talk-Title>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 1030.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 8,
-                        "locked": false,
-                        "name": "<Speaker-Name>",
-                        "pos": {
-                            "x": 24.0,
-                            "y": 958.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.3241590261459351,
-                            "y": 1.325581431388855
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1703,58 +1467,6 @@
                     {
                         "align": 5,
                         "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 10,
-                        "locked": false,
-                        "name": "<Talk-Title>",
-                        "pos": {},
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 8,
-                        "locked": false,
-                        "name": "<Speaker-Name>",
-                        "pos": {},
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
                             "x": 1920.0,
                             "y": 1080.0
                         },
@@ -1878,69 +1590,6 @@
             "deinterlace_mode": 0,
             "enabled": true,
             "flags": 0,
-            "hotkeys": {},
-            "id": "text_ft2_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "<Speaker-Name>",
-            "prev_ver": 436273154,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "font": {
-                    "face": "Sans Serif",
-                    "flags": 0,
-                    "size": 36,
-                    "style": ""
-                },
-                "text": "<Speaker-Name>",
-                "word_wrap": true
-            },
-            "sync": 0,
-            "versioned_id": "text_ft2_source_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_ft2_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "<Talk-Title>",
-            "prev_ver": 436273154,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "font": {
-                    "face": "Sans Serif",
-                    "flags": 0,
-                    "size": 36,
-                    "style": ""
-                },
-                "text": "<Talk-Title>"
-            },
-            "sync": 0,
-            "versioned_id": "text_ft2_source_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
             "hotkeys": {
                 "SlideShow.NextSlide": [],
                 "SlideShow.PlayPause": [],
@@ -1996,7 +1645,7 @@
                 "font": {
                     "face": "Sans Serif",
                     "flags": 0,
-                    "size": 12,
+                    "size": 36,
                     "style": ""
                 },
                 "text": "Sponsored by"
